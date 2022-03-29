@@ -1,4 +1,5 @@
 # Meme_Maker
+
 ## Technologies & frameworks used
 
 The app is built using the following frameworks:
