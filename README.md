@@ -28,7 +28,7 @@ The following commands need to be executed in Bash or Command Line.
 
 Clone the repository
 
-### `git clone https://github.com/huyenluu/meme-generator-react.git`
+### `git clone https://github.com/ManojKGupta1301/Meme_Maker.git`
 
 Change directory
 
