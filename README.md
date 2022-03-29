@@ -52,6 +52,20 @@ Run the app
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+# Description
+Follow these instructions to get started with this app:
+* To begin, select a meme using the "Choose a meme" or "Drop down" buttons.
+*Select a picture from your computer if you click the "Choose a meme" option.
+*If you select the drop-down option, paste the image's link (.jpg,.png,.jpeg, etc).
+* In the "Top Text" field and type the text that appears on top of the image.
+* Next, type the text that appears at the bottom of the image in the "Bottom Text" section.
+* You can then select the text's font and size.
+* From the given colour template, you can modify the colour of the text.
+Save the image or meme to your PC at this time.
+
+The App will download the Meme in its original dimensions and quality.
+
+
 # npm run build
 Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
