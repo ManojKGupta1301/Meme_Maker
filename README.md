@@ -1,4 +1,5 @@
 # Meme_Maker
+Memes have become a part of our everyday life. Most of us have a daily task of sharing memes with one another. It has an unrivalled creative and comedic element to it. Many people are creative, but they are unsure how to go about it. This hackathon aims to bring these two aspects together by challenging participants to create a meme generator.
 
 ## Technologies & frameworks used
 
