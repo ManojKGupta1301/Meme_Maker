@@ -65,6 +65,11 @@ Save the image or meme to your PC at this time.
 
 The App will download the Meme in its original dimensions and quality.
 
+# ScreenShots
+![image](https://user-images.githubusercontent.com/102594211/160602941-156f2ce9-ee68-4d17-84f6-688e01233e8f.png)
+![image](https://user-images.githubusercontent.com/102594211/160602971-844c4d09-4e40-48c9-8d48-da8163b4d615.png)
+
+
 
 # npm run build
 Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
