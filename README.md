@@ -6,11 +6,6 @@ The app is built using the following frameworks:
 * CSS
 * React.js for Frontend
 * Express.js for Backend
-![image](https://user-images.githubusercontent.com/102594211/160601868-0c320811-4adf-41fc-a9f5-29c5e0c43510.png)
-
-
-Besides being the stack I'm most comfortable with, I've picked React for its vast adoption, the wealth of available components and extensive documentation. On the backend side, I find that Express.js is easy to use, particularly when coming from a Javascript background. 
-I
 
 ## Third-party libraries
 
